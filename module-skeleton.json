@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-playbooks-and-enablement-flutter",
+  "capabilityKey": "liberusoftware/module-crm-playbooks-and-enablement",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_playbooks_and_enablement_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/playbooks-and-enablement.md",
+  "presentationPlan": "projects/crm/flutter/playbooks-and-enablement.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
